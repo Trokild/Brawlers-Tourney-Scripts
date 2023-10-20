@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fda20d6f32959ef46b76dcc1af5c5181, type: 3}
+  m_Name: MaskTest
+  m_EditorClassIdentifier: 
+  itemName: Mask Test
+  itemSprite: {fileID: -3893147007616006423, guid: edee56e2af88d32478b0863f45d17573,
+    type: 3}
+  thisItemIs: 2
+  cooldown: 1
+  thisGearIs: 0
